@@ -21,7 +21,8 @@ Results:
 
 - K-Means best k = 2 → silhouette ≈ 0.40
 - Hierarchical best k = 2 → silhouette ≈ 0.36
-Customers are mainly divided into;
+- 
+Customers are mainly divided into:
 - Low-value customers
 - High-value customers
 
